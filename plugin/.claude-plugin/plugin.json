@@ -1,0 +1,19 @@
+{
+  "name": "latepayers",
+  "version": "0.1.0",
+  "description": "Accounts receivable aging from an invoice CSV: who owes what, how late, and who to chase first.",
+  "author": {
+    "name": "Giulliano Macedo",
+    "url": "https://github.com/GillMacedo"
+  },
+  "homepage": "https://github.com/GillMacedo/latepayers",
+  "repository": "https://github.com/GillMacedo/latepayers",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "accounts-receivable",
+    "invoices",
+    "bookkeeping",
+    "csv"
+  ]
+}

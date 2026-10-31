@@ -1,0 +1,13 @@
+Open invoices (made-up data),,,,,,
+Invoice Number,Customer,Invoice Date,Due Date,Total,Amount Paid,Paid Date
+INV-2001,Example Supplies Ltd,2026-07-01,2026-07-31,1200.00,0,
+INV-2002,Example Supplies Ltd,2026-09-01,2026-10-01,800.00,300.00,
+INV-2003,Fictional Cafe,2026-05-15,2026-06-14,450.50,0,
+INV-2004,Fictional Cafe,2026-03-01,2026-03-31,300.00,300.00,2026-04-20
+INV-2005,Fictional Cafe,2026-04-01,2026-05-01,250.00,250.00,2026-05-31
+INV-2006,Sample Widgets,2026-10-10,2026-11-09,2000.00,0,
+INV-2007,Sample Widgets,2026-08-20,2026-09-19,975.00,0,
+INV-2008,Sample Widgets,2026-07-01,2026-07-31,500.00,500.00,2026-07-28
+INV-2009,Demo Bakery,2026-06-01,,620.00,0,
+INV-2010,Acme Test Co,2026-09-05,2026-10-05,-75.00,0,
+Totals,,,,,,

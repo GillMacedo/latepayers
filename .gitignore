@@ -1,0 +1,6 @@
+.env
+.env.*
+.DS_Store
+/latepayers
+/dist/
+/npm/bin/

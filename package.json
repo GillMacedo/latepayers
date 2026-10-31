@@ -1,0 +1,32 @@
+{
+  "name": "latepayers",
+  "version": "0.1.0",
+  "description": "Accounts receivable aging report from an invoice CSV: who owes what, how late, and who to chase first. MCP server and CLI; your data stays on your machine.",
+  "license": "MIT",
+  "author": "Giulliano Macedo (https://github.com/GillMacedo)",
+  "homepage": "https://github.com/GillMacedo/latepayers",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GillMacedo/latepayers.git"
+  },
+  "mcpName": "io.github.GillMacedo/latepayers",
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "claude",
+    "accounts-receivable",
+    "ar-aging",
+    "overdue-invoices",
+    "collections",
+    "bookkeeping",
+    "small-business",
+    "csv"
+  ],
+  "bin": {
+    "latepayers": "npm/bin.js"
+  },
+  "files": [
+    "npm/bin.js",
+    "npm/bin"
+  ]
+}
