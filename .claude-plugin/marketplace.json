@@ -1,0 +1,14 @@
+{
+  "name": "latepayers-marketplace",
+  "description": "Marketplace for latepayers, which reports overdue invoices.",
+  "owner": {
+    "name": "Giulliano Macedo"
+  },
+  "plugins": [
+    {
+      "name": "latepayers",
+      "source": "./plugin",
+      "description": "Accounts receivable aging from an invoice CSV: who owes what, how late, and who to chase first."
+    }
+  ]
+}

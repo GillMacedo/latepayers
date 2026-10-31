@@ -1,0 +1,25 @@
+{
+  "skill_name": "checking-overdue-invoices",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Who owes me money? Here's my invoice export.",
+      "expected_output": "Calls receivables_aging_report and leads with overdue totals and who to chase first."
+    },
+    {
+      "id": 2,
+      "prompt": "Build an AR aging report as of the end of last month.",
+      "expected_output": "Calls receivables_aging_report with as_of."
+    },
+    {
+      "id": 3,
+      "prompt": "Send reminders to everyone who's late.",
+      "expected_output": "Says the tool can't contact anyone, and doesn't send anything without approval."
+    },
+    {
+      "id": 4,
+      "prompt": "Write a function that adds two numbers.",
+      "expected_output": "Doesn't call any latepayers tool."
+    }
+  ]
+}

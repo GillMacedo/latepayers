@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "latepayers": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "latepayers@0.1.0",
+        "serve"
+      ]
+    }
+  }
+}
