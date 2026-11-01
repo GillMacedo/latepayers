@@ -25,4 +25,4 @@ Builds accounts receivable aging reports from invoice CSVs. It's a Go MCP server
 - Never write to stdout in server code, because it corrupts JSON-RPC.
 
 ## Definition of done
-Tests pass, the README example matches, and `CHANGELOG.md` and `ROADMAP.md` are updated if relevant.
+Tests pass, the README example matches, and `ROADMAP.md` is updated if relevant.
